@@ -163,27 +163,11 @@ The demo visualizes every step of the pipeline:
 
 ### Screenshots
 
-Add your demo screenshots in `assets/demo/` with these names:
 
-- `assets/demo/demo_overview.png`
-- `assets/demo/demo_tokenization.png`
-- `assets/demo/demo_generation.png`
-
-Then they will render in this README:
-
-![Demo Overview](assets/demo/demo_overview.png)
-![Tokenization Tab](assets/demo/demo_tokenization.png)
-![Generation Tab](assets/demo/demo_generation.png)
 
 ### Demo Video
 
-Add your recorded walkthrough video as:
 
-- `assets/demo/demo_walkthrough.mp4`
-
-Then link it here (replace with your uploaded URL or repo-relative path):
-
-- [Watch Demo Video](assets/demo/demo_walkthrough.mp4)
 
 ---
 
